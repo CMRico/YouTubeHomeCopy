@@ -1,0 +1,19 @@
+p {
+  font-family: Arial, Roboto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.search-bar {
+  display: block;
+  margin: 0px;
+}
+
+body {
+  font-family: Roboto, Arial;
+  margin: 0;
+  padding-top: 80px;
+  padding-left: 100px;
+  padding-right: 24px;
+  background-color: rgb(251, 251, 251);
+}
